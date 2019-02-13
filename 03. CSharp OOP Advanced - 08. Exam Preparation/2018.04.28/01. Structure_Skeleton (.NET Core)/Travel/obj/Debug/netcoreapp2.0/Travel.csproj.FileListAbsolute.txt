@@ -1,0 +1,11 @@
+D:\Exam Preparation\2018.04.28\01. Structure_Skeleton (.NET Core)\Travel\obj\Debug\netcoreapp2.0\Travel.csprojAssemblyReference.cache
+D:\Exam Preparation\2018.04.28\01. Structure_Skeleton (.NET Core)\Travel\obj\Debug\netcoreapp2.0\Travel.csproj.CoreCompileInputs.cache
+D:\Exam Preparation\2018.04.28\01. Structure_Skeleton (.NET Core)\Travel\obj\Debug\netcoreapp2.0\Travel.AssemblyInfoInputs.cache
+D:\Exam Preparation\2018.04.28\01. Structure_Skeleton (.NET Core)\Travel\obj\Debug\netcoreapp2.0\Travel.AssemblyInfo.cs
+D:\Exam Preparation\2018.04.28\01. Structure_Skeleton (.NET Core)\Travel\bin\Debug\netcoreapp2.0\Travel.deps.json
+D:\Exam Preparation\2018.04.28\01. Structure_Skeleton (.NET Core)\Travel\bin\Debug\netcoreapp2.0\Travel.runtimeconfig.json
+D:\Exam Preparation\2018.04.28\01. Structure_Skeleton (.NET Core)\Travel\bin\Debug\netcoreapp2.0\Travel.runtimeconfig.dev.json
+D:\Exam Preparation\2018.04.28\01. Structure_Skeleton (.NET Core)\Travel\bin\Debug\netcoreapp2.0\Travel.dll
+D:\Exam Preparation\2018.04.28\01. Structure_Skeleton (.NET Core)\Travel\bin\Debug\netcoreapp2.0\Travel.pdb
+D:\Exam Preparation\2018.04.28\01. Structure_Skeleton (.NET Core)\Travel\obj\Debug\netcoreapp2.0\Travel.dll
+D:\Exam Preparation\2018.04.28\01. Structure_Skeleton (.NET Core)\Travel\obj\Debug\netcoreapp2.0\Travel.pdb

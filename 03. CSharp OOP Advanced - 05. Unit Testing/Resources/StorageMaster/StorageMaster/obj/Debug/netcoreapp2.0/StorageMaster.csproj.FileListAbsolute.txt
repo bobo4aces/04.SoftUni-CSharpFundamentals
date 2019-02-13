@@ -1,0 +1,11 @@
+D:\Unit Testing\Resources\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.0\StorageMaster.deps.json
+D:\Unit Testing\Resources\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.0\StorageMaster.runtimeconfig.json
+D:\Unit Testing\Resources\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.0\StorageMaster.runtimeconfig.dev.json
+D:\Unit Testing\Resources\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.0\StorageMaster.dll
+D:\Unit Testing\Resources\StorageMaster\StorageMaster\bin\Debug\netcoreapp2.0\StorageMaster.pdb
+D:\Unit Testing\Resources\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.csprojAssemblyReference.cache
+D:\Unit Testing\Resources\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.csproj.CoreCompileInputs.cache
+D:\Unit Testing\Resources\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.AssemblyInfoInputs.cache
+D:\Unit Testing\Resources\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.AssemblyInfo.cs
+D:\Unit Testing\Resources\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.dll
+D:\Unit Testing\Resources\StorageMaster\StorageMaster\obj\Debug\netcoreapp2.0\StorageMaster.pdb

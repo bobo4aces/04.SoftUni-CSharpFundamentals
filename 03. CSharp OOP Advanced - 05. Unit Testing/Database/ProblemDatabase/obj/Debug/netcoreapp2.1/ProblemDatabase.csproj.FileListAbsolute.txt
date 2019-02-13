@@ -1,0 +1,11 @@
+D:\Unit Testing\Database\ProblemDatabase\bin\Debug\netcoreapp2.1\ProblemDatabase.deps.json
+D:\Unit Testing\Database\ProblemDatabase\bin\Debug\netcoreapp2.1\ProblemDatabase.runtimeconfig.json
+D:\Unit Testing\Database\ProblemDatabase\bin\Debug\netcoreapp2.1\ProblemDatabase.runtimeconfig.dev.json
+D:\Unit Testing\Database\ProblemDatabase\bin\Debug\netcoreapp2.1\ProblemDatabase.dll
+D:\Unit Testing\Database\ProblemDatabase\bin\Debug\netcoreapp2.1\ProblemDatabase.pdb
+D:\Unit Testing\Database\ProblemDatabase\obj\Debug\netcoreapp2.1\ProblemDatabase.csprojAssemblyReference.cache
+D:\Unit Testing\Database\ProblemDatabase\obj\Debug\netcoreapp2.1\ProblemDatabase.csproj.CoreCompileInputs.cache
+D:\Unit Testing\Database\ProblemDatabase\obj\Debug\netcoreapp2.1\ProblemDatabase.AssemblyInfoInputs.cache
+D:\Unit Testing\Database\ProblemDatabase\obj\Debug\netcoreapp2.1\ProblemDatabase.AssemblyInfo.cs
+D:\Unit Testing\Database\ProblemDatabase\obj\Debug\netcoreapp2.1\ProblemDatabase.dll
+D:\Unit Testing\Database\ProblemDatabase\obj\Debug\netcoreapp2.1\ProblemDatabase.pdb

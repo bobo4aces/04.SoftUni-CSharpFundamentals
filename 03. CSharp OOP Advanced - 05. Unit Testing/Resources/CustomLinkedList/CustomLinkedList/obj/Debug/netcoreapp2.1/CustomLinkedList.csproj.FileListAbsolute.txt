@@ -1,0 +1,9 @@
+D:\Unit Testing\Resources\CustomLinkedList\CustomLinkedList\bin\Debug\netcoreapp2.1\CustomLinkedList.deps.json
+D:\Unit Testing\Resources\CustomLinkedList\CustomLinkedList\bin\Debug\netcoreapp2.1\CustomLinkedList.dll
+D:\Unit Testing\Resources\CustomLinkedList\CustomLinkedList\bin\Debug\netcoreapp2.1\CustomLinkedList.pdb
+D:\Unit Testing\Resources\CustomLinkedList\CustomLinkedList\obj\Debug\netcoreapp2.1\CustomLinkedList.csprojAssemblyReference.cache
+D:\Unit Testing\Resources\CustomLinkedList\CustomLinkedList\obj\Debug\netcoreapp2.1\CustomLinkedList.csproj.CoreCompileInputs.cache
+D:\Unit Testing\Resources\CustomLinkedList\CustomLinkedList\obj\Debug\netcoreapp2.1\CustomLinkedList.AssemblyInfoInputs.cache
+D:\Unit Testing\Resources\CustomLinkedList\CustomLinkedList\obj\Debug\netcoreapp2.1\CustomLinkedList.AssemblyInfo.cs
+D:\Unit Testing\Resources\CustomLinkedList\CustomLinkedList\obj\Debug\netcoreapp2.1\CustomLinkedList.dll
+D:\Unit Testing\Resources\CustomLinkedList\CustomLinkedList\obj\Debug\netcoreapp2.1\CustomLinkedList.pdb

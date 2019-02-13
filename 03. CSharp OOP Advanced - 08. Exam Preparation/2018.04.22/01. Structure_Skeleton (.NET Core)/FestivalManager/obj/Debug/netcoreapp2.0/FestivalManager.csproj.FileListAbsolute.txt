@@ -1,0 +1,11 @@
+D:\Exam Preparation\2018.04.22\01. Structure_Skeleton (.NET Core)\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.csprojAssemblyReference.cache
+D:\Exam Preparation\2018.04.22\01. Structure_Skeleton (.NET Core)\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.csproj.CoreCompileInputs.cache
+D:\Exam Preparation\2018.04.22\01. Structure_Skeleton (.NET Core)\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.AssemblyInfoInputs.cache
+D:\Exam Preparation\2018.04.22\01. Structure_Skeleton (.NET Core)\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.AssemblyInfo.cs
+D:\Exam Preparation\2018.04.22\01. Structure_Skeleton (.NET Core)\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.deps.json
+D:\Exam Preparation\2018.04.22\01. Structure_Skeleton (.NET Core)\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.runtimeconfig.json
+D:\Exam Preparation\2018.04.22\01. Structure_Skeleton (.NET Core)\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.runtimeconfig.dev.json
+D:\Exam Preparation\2018.04.22\01. Structure_Skeleton (.NET Core)\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.dll
+D:\Exam Preparation\2018.04.22\01. Structure_Skeleton (.NET Core)\FestivalManager\bin\Debug\netcoreapp2.0\FestivalManager.pdb
+D:\Exam Preparation\2018.04.22\01. Structure_Skeleton (.NET Core)\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.dll
+D:\Exam Preparation\2018.04.22\01. Structure_Skeleton (.NET Core)\FestivalManager\obj\Debug\netcoreapp2.0\FestivalManager.pdb

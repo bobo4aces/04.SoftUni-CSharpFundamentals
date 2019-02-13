@@ -1,0 +1,17 @@
+D:\Unit Testing\Resources\StorageMaster\StorageMester.BusinessLogic.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\Unit Testing\Resources\StorageMaster\StorageMester.BusinessLogic.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\Unit Testing\Resources\StorageMaster\StorageMester.BusinessLogic.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\Unit Testing\Resources\StorageMaster\StorageMester.BusinessLogic.Tests\bin\Debug\netcoreapp2.1\StorageMester.BusinessLogic.Tests.deps.json
+D:\Unit Testing\Resources\StorageMaster\StorageMester.BusinessLogic.Tests\bin\Debug\netcoreapp2.1\StorageMester.BusinessLogic.Tests.runtimeconfig.json
+D:\Unit Testing\Resources\StorageMaster\StorageMester.BusinessLogic.Tests\bin\Debug\netcoreapp2.1\StorageMester.BusinessLogic.Tests.runtimeconfig.dev.json
+D:\Unit Testing\Resources\StorageMaster\StorageMester.BusinessLogic.Tests\bin\Debug\netcoreapp2.1\StorageMester.BusinessLogic.Tests.dll
+D:\Unit Testing\Resources\StorageMaster\StorageMester.BusinessLogic.Tests\bin\Debug\netcoreapp2.1\StorageMester.BusinessLogic.Tests.pdb
+D:\Unit Testing\Resources\StorageMaster\StorageMester.BusinessLogic.Tests\bin\Debug\netcoreapp2.1\StorageMaster.dll
+D:\Unit Testing\Resources\StorageMaster\StorageMester.BusinessLogic.Tests\bin\Debug\netcoreapp2.1\StorageMaster.pdb
+D:\Unit Testing\Resources\StorageMaster\StorageMester.BusinessLogic.Tests\obj\Debug\netcoreapp2.1\StorageMester.BusinessLogic.Tests.csprojAssemblyReference.cache
+D:\Unit Testing\Resources\StorageMaster\StorageMester.BusinessLogic.Tests\obj\Debug\netcoreapp2.1\StorageMester.BusinessLogic.Tests.csproj.CoreCompileInputs.cache
+D:\Unit Testing\Resources\StorageMaster\StorageMester.BusinessLogic.Tests\obj\Debug\netcoreapp2.1\StorageMester.BusinessLogic.Tests.AssemblyInfoInputs.cache
+D:\Unit Testing\Resources\StorageMaster\StorageMester.BusinessLogic.Tests\obj\Debug\netcoreapp2.1\StorageMester.BusinessLogic.Tests.AssemblyInfo.cs
+D:\Unit Testing\Resources\StorageMaster\StorageMester.BusinessLogic.Tests\obj\Debug\netcoreapp2.1\StorageMester.BusinessLogic.Tests.csproj.CopyComplete
+D:\Unit Testing\Resources\StorageMaster\StorageMester.BusinessLogic.Tests\obj\Debug\netcoreapp2.1\StorageMester.BusinessLogic.Tests.dll
+D:\Unit Testing\Resources\StorageMaster\StorageMester.BusinessLogic.Tests\obj\Debug\netcoreapp2.1\StorageMester.BusinessLogic.Tests.pdb

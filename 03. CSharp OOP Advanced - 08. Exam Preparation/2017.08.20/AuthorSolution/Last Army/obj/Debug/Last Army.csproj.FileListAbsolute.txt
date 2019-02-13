@@ -1,0 +1,16 @@
+C:\Users\DJBur\Desktop\Valio-Final\Last Army\bin\Debug\Last Army.exe.config
+C:\Users\DJBur\Desktop\Valio-Final\Last Army\bin\Debug\Last Army.exe
+C:\Users\DJBur\Desktop\Valio-Final\Last Army\bin\Debug\Last Army.pdb
+C:\Users\DJBur\Desktop\Valio-Final\Last Army\obj\Debug\Last Army.csprojResolveAssemblyReference.cache
+C:\Users\DJBur\Desktop\Valio-Final\Last Army\obj\Debug\Last Army.exe
+C:\Users\DJBur\Desktop\Valio-Final\Last Army\obj\Debug\Last Army.pdb
+C:\Users\DJBur\Desktop\Valio-Final\Last Army\bin\Debug\nunit.framework.dll
+C:\Users\DJBur\Desktop\Valio-Final\Last Army\bin\Debug\nunit.framework.xml
+C:\Users\DJBur\Desktop\AuthorSolution\Last Army\bin\Debug\Last Army.exe.config
+C:\Users\DJBur\Desktop\AuthorSolution\Last Army\bin\Debug\Last Army.exe
+C:\Users\DJBur\Desktop\AuthorSolution\Last Army\bin\Debug\Last Army.pdb
+C:\Users\DJBur\Desktop\AuthorSolution\Last Army\bin\Debug\nunit.framework.dll
+C:\Users\DJBur\Desktop\AuthorSolution\Last Army\bin\Debug\nunit.framework.xml
+C:\Users\DJBur\Desktop\AuthorSolution\Last Army\obj\Debug\Last Army.csprojResolveAssemblyReference.cache
+C:\Users\DJBur\Desktop\AuthorSolution\Last Army\obj\Debug\Last Army.exe
+C:\Users\DJBur\Desktop\AuthorSolution\Last Army\obj\Debug\Last Army.pdb
